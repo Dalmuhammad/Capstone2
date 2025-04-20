@@ -1,5 +1,7 @@
 # Capstone2
 
+#Link Visualization (Tableau) : https://public.tableau.com/app/profile/muh.afdal/viz/capstone_2_17309049909880/Story1?publish=yes
+
 The AWS SaaS Sales dataset provides transactional data from a hypothetical B2B SaaS company specializing in sales and marketing software. Each row represents a product within a transaction, with detailed information such as unique identifiers for each transaction and order, dates, customer and contact details, and geographical data (country, city, region, and subregion). Additionally, it captures customer specifics like industry and segment, alongside product details, sales amounts, quantities, discounts, and profits. This dataset offers valuable insights for analyzing profit, sales performance across different regions and customer segments, etc.
 
 In the dataset, each row represents a product in a transaction, and the columns include:
